@@ -1,4 +1,6 @@
 # An Insider’s Guide on How to Survive and Thrive at Dev Bootcamp
+![First Day of DBC Outfit](/blue-screen-of-death-tee.png)
+
 This guide started as [a post in Medium](https://blog.andreacoravos.com/things-i-wish-i-knew-tips-and-tricks-for-devbootcamp-3271b516328b#.dqrhkq43q). We wanted to make the guide more interactive, so we're hosting it here on GitHub. 
 
 We know that you're going to get a lot of tips and suggestions in the DBC course, and our goal is to avoid overlap. We want this to be the BEST tips that you didn't see in regular DBC documentation. This is a collection of the 1-2 tips that DBC grads learned that made them think: *mind. blown.*
